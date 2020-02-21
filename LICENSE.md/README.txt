@@ -1,0 +1,1 @@
+This repository houses example tools coded in RStudio, that were used for various bioinformatic analyses. These examples are exlusively to show previous experience working with bioinformatic analysis in R.
